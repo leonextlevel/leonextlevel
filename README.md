@@ -33,6 +33,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonextlevel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=3498db&icon_color=3498db&text_color=3498db&bg_color=0D1117" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonextlevel&bg_color=0D1117&text_color=3498db&layout=compact" />
 </a>
