@@ -2,6 +2,13 @@
 
 <h2>I'm a Web Developer and in my spare time content creator (Twitch and Youtube).</h2>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonextlevel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000019" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonextlevel&bg_color=000019&text_color=ffffff&title_color=ffffff&layout=compact" />
+</a>
+
 <h3>Social networks</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-lopes-bueno/)](https://www.linkedin.com/in/leandro-lopes-bueno/)
@@ -30,6 +37,3 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonextlevel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=3498db&icon_color=3498db&text_color=3498db&bg_color=0D1117" />
-</a>
