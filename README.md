@@ -1,6 +1,6 @@
 <h1>Hello 👋</h1>
 
-<h2>I'm a Web Developer and in my spare time content creator (Twitch and Youtube).</h2>
+<h2>I'm a Web Developer.</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonextlevel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000019" />
