@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="46" viewBox="0 0 190 46" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace">
+<rect x=".5" y=".5" width="189" height="45" rx="9" fill="#0B1626" stroke="#24476F"/>
+<rect x="6" y="6" width="34" height="34" rx="6" fill="#0F2138" stroke="#24476F"/>
+<path transform="translate(12 12) scale(0.9167)" fill="#5CD6FF" d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/>
+<text x="54" y="28" font-size="13" fill="#DCE8F7" font-weight="700" text-anchor="start" letter-spacing="2">EMAIL</text>
+<text x="172" y="29" font-size="16" fill="#5CD6FF" font-weight="700" text-anchor="end">↗</text>
+</svg>

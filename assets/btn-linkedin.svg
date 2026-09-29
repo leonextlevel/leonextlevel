@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="46" viewBox="0 0 190 46" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace">
+<rect x=".5" y=".5" width="189" height="45" rx="9" fill="#0B1626" stroke="#24476F"/>
+<rect x="6" y="6" width="34" height="34" rx="6" fill="#0F2138" stroke="#24476F"/>
+<rect x="13" y="13" width="20" height="20" rx="4" fill="none" stroke="#5CD6FF" stroke-width="1.6"/><text x="23" y="28" font-size="12" fill="#5CD6FF" font-weight="800" text-anchor="middle">in</text>
+<text x="54" y="28" font-size="13" fill="#DCE8F7" font-weight="700" text-anchor="start" letter-spacing="2">LINKEDIN</text>
+<text x="172" y="29" font-size="16" fill="#5CD6FF" font-weight="700" text-anchor="end">↗</text>
+</svg>
